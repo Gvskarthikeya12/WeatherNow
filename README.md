@@ -21,5 +21,5 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-now.git
+   git clone https://github.com/Gvskarthikeya12/weather-now.git
 
