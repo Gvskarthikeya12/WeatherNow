@@ -16,7 +16,6 @@ A simple React application to check the current weather of any location using th
 ### Prerequisites
 Make sure you have the following installed:
 - **Node.js** (v14 or higher)
-- **React**
 
 ### Installation
 1. Clone the repository:
